@@ -47,7 +47,7 @@ function playGame(userChoice) {
             userScore++;
             userScorePara.innerText = userScore;
             msg.innerText = "You Win! Rock beats Scissors";
-            msg.style.backgroundColor = "green"
+            msg.style.backgroundColor = "green";
         }
     }
 
